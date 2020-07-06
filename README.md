@@ -21,14 +21,8 @@ This project in based [Richzhang paper](https://richzhang.github.io/colorization
 
 ## Results
 
-<div style="display: flex;">
-    <div>
-        <img src="sample_bw.jpg" height=300>
-    </div>
-    <div>
-        <img src="sample_predict.jpg" height=300>
-    </div>
-</div>
+<img alt="before" src="sample_bw.jpg" height=400 align="left">
+<img alt="after" src="sample_predict.jpg" height=400 align="left">
 
 
 ## How does it work ?

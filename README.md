@@ -6,10 +6,10 @@ This project in based [Richzhang paper](https://richzhang.github.io/colorization
 
 ## Download the caffemodel and  prototxt 
     Models
-    $ wget http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel -O ./core/models/colorization_release_v2.caffemodel
+    $ wget http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel -O ./core/models/model.caffemodel
     
     Prototxt
-    $ wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization/models/colorization_deploy_v2.prototxt -O ./core/models/colorization_deploy_v2.prototxt
+    $ wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization/models/colorization_deploy_v2.prototxt -O ./core/models/deploy.prototxt
 
 
 

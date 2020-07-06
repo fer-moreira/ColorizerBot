@@ -65,3 +65,14 @@
 2020-07-06 18:36:26,409 root (line 37) | INFO     | [...] Extracting L channel and resizing it
 2020-07-06 18:36:26,641 root (line 44) | INFO     | [...] Predicting
 2020-07-06 18:36:27,090 root (line 53) | INFO     | [OUT] > sample_predict.jpg
+2020-07-06 19:56:29,514 root (line 18) | INFO     | Input > sample_bw.jpg
+2020-07-06 19:58:08,171 root (line 18) | INFO     | Input > sample_bw.jpg
+2020-07-06 20:04:53,697 root (line 18) | INFO     | Input > sample_bw.jpg
+2020-07-06 20:04:56,533 root (line 38) | INFO     | Building...
+2020-07-06 20:05:22,994 root (line 18) | INFO     | Input > sample_bw.jpg
+2020-07-06 20:05:23,251 root (line 38) | INFO     | Building...
+2020-07-06 20:06:09,779 root (line 16) | INFO     | Input > sample_bw.jpg
+2020-07-06 20:06:10,000 root (line 36) | INFO     | Building...
+2020-07-06 20:06:50,446 root (line 16) | INFO     | Input > sample_bw.jpg
+2020-07-06 20:06:50,663 root (line 36) | INFO     | Building...
+2020-07-06 20:06:51,531 root (line 60) | INFO     | Output > sample_predict.jpg

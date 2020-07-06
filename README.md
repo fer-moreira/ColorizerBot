@@ -23,10 +23,10 @@ This project in based [Richzhang paper](https://richzhang.github.io/colorization
 
 <div style="display: flex;">
     <div>
-        <img src="sample_bw.jpg" height=400>
+        <img src="sample_bw.jpg" height=300>
     </div>
     <div>
-        <img src="sample_predict.jpg" height=400>
+        <img src="sample_predict.jpg" height=300>
     </div>
 </div>
 

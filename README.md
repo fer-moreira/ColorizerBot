@@ -24,6 +24,7 @@ This project in based [Richzhang paper](https://richzhang.github.io/colorization
 <img alt="before" src="sample_bw.jpg" height=400 align="left">
 <img alt="after" src="sample_predict.jpg" height=400 align="left">
 
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
 
 ## How does it work ?
 ![Colorful Image Colorization](https://richzhang.github.io/colorization/resources/images/net_diagram.jpg)
